@@ -1,0 +1,6 @@
+{
+  "name": "MediExplain AI",
+  "description": "Transparent Artificial Intelligence for Healthcare Decisions with Explainable AI (XAI), Risk Predictions, and Diagnostic Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
